@@ -1,1 +1,4 @@
 .idea
+.env
+# runtime binaries
+thistle-download/
